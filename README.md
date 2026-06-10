@@ -1,4 +1,4 @@
-# Hi, I'm [Simon] 👋
+# Hi, I'm Simon 👋
 ### AI Video Engineer & Automation Specialist
 
 I bridge the gap between creative video production and machine learning. I build automated workflows, computer vision tools, and speech-to-text pipelines designed to scale video content production.
@@ -29,5 +29,5 @@ Utilizes word-level AI alignment to create rapid-fire, stylized captions for Tik
 ---
 
 ## 📫 Connect With Me
-- **Email:** [simongselby@gmail.com]
-- **LinkedIn:** [linkedin.com/in/simon-selby]
+- **Email:** simongselby@gmail.com
+- **LinkedIn:** linkedin.com/in/simon-selby
